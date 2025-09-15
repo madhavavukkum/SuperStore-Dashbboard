@@ -38,10 +38,10 @@ The dashboard also includes **time-series forecasting** to predict future sales 
 ## 📸 Screenshots  
 
 ### Dashboard Overview  
-![Dashboard Screenshot 1](./dashboard.jpg)
+![Dashboard Screenshot 1](./Dashboard.jpg)
 
 ### Sales Trend & State-wise Insights  
-![Dashboard Screenshot 2](./forecast.jpg)
+![Dashboard Screenshot 2](./Forecast.jpg)
 
 ### Data Model  
 ![Data Model Screenshot](./model.png)
