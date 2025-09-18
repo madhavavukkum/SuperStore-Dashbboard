@@ -5,6 +5,18 @@ It provides insights into sales performance across different segments, categorie
 The dashboard also includes **time-series forecasting** to predict future sales trends.
 
 ---
+## 📸 Screenshots  
+
+### Dashboard Overview  
+![Dashboard Screenshot 1](./Dashboard.jpg)
+
+### Sales Trend & State-wise Insights  
+![Dashboard Screenshot 2](./Forecast.jpg)
+
+### Data Model  
+![Data Model Screenshot](./model.png)
+
+---
 
 ## 🚀 Features
 
@@ -35,18 +47,6 @@ The dashboard also includes **time-series forecasting** to predict future sales 
 
 ---
 
-## 📸 Screenshots  
-
-### Dashboard Overview  
-![Dashboard Screenshot 1](./Dashboard.jpg)
-
-### Sales Trend & State-wise Insights  
-![Dashboard Screenshot 2](./Forecast.jpg)
-
-### Data Model  
-![Data Model Screenshot](./model.png)
-
----
 
 ## 🎯 Outcomes
 
